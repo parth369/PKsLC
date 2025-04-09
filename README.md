@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parth369/PKsLC/tree/master/0001-two-sum) |
+| [0451-sort-characters-by-frequency](https://github.com/parth369/PKsLC/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/parth369/PKsLC/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/parth369/PKsLC/tree/master/0692-top-k-frequent-words) |
 ## Divide and Conquer
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/parth369/PKsLC/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/parth369/PKsLC/tree/master/0692-top-k-frequent-words) |
 ## Trie
 |  |
@@ -37,17 +39,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/parth369/PKsLC/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/parth369/PKsLC/tree/master/0692-top-k-frequent-words) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/parth369/PKsLC/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/parth369/PKsLC/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/parth369/PKsLC/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/parth369/PKsLC/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/parth369/PKsLC/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/parth369/PKsLC/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
