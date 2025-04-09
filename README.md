@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/parth369/PKsLC/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/parth369/PKsLC/tree/master/0053-maximum-subarray) |
 | [0560-subarray-sum-equals-k](https://github.com/parth369/PKsLC/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/parth369/PKsLC/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/parth369/PKsLC/tree/master/0692-top-k-frequent-words) |
 ## Hash Table
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/parth369/PKsLC/tree/master/0001-two-sum) |
 | [0451-sort-characters-by-frequency](https://github.com/parth369/PKsLC/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/parth369/PKsLC/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/parth369/PKsLC/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/parth369/PKsLC/tree/master/0692-top-k-frequent-words) |
 ## Divide and Conquer
 |  |
@@ -40,11 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/parth369/PKsLC/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/parth369/PKsLC/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/parth369/PKsLC/tree/master/0692-top-k-frequent-words) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/parth369/PKsLC/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/parth369/PKsLC/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/parth369/PKsLC/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
@@ -55,5 +59,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/parth369/PKsLC/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/parth369/PKsLC/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/parth369/PKsLC/tree/master/0692-top-k-frequent-words) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/parth369/PKsLC/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
